@@ -1,4 +1,4 @@
-# Tugas-pemograman-web-
+# LAB2WEB
 Pertemuan 3
 
 Nama  : Muhammad Rende Ramadhani
@@ -52,7 +52,7 @@ Ini tampilannya.
 14. Simpan kembali dan refresh pada browser untuk melihat hasilnya.
 ![gambar14](https://user-images.githubusercontent.com/73051103/161543882-b0f0bd55-a33d-40a4-ad99-63a81b6fe94d.jpg)
 
-TUGAS
+# TUGAS
 ______________________________
 1. Apa perbedaan pendeklarasian CSS element h1 {...} dengan #intro h1 {...}? Berikan penjelasannya!
 
